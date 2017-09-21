@@ -1,0 +1,7 @@
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+D:\GKona\Documents\HUMBER\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
